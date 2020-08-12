@@ -35,6 +35,6 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
     * 추가: Component Pattern 추가.
 
 ## 정보
-- [개인블로그](https://blog.naver.com/minsu_jj "개인 블로그")
+- [개발자 개인블로그!(Jeon의 개인블로그.)](https://blog.naver.com/minsu_jj "개인 블로그")
 - Email : minsu_jj@naver.com
 
