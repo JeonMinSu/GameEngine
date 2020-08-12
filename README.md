@@ -21,6 +21,13 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 * Tool : Visual Studio 2017
 * Programming language : C++
 
+## Folder
+
+Player -> Windows API, D3DX9 Module
+Runtime -> Math, Rendering System, EngineSystem
+
+
+
 ## 업데이트 내역
 * 0.0.1
     * 작업 진행 중
