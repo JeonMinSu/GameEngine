@@ -5,6 +5,7 @@
 * Engine 구조
 ![가나다라](https://user-images.githubusercontent.com/31675789/89992042-adbe1000-dcbf-11ea-99f4-9b215591c179.png)
 * Component 구조
+![1234](https://user-images.githubusercontent.com/31675789/90001561-8a4d9200-dccc-11ea-9534-6595459fde18.png)
 
 ## 사용 예제
 
