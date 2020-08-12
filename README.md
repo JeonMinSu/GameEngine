@@ -23,8 +23,8 @@ _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
 
 ## Folder
 
-- Player -> Windows API, D3DX9 Module.
-- Runtime -> Math, Rendering System, EngineSystem.
+- Player -> Windows API, D3DX9 Module
+- Runtime -> Math, Rendering System, EngineSystem
 
 
 
